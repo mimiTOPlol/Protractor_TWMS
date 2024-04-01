@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "protractor": "^7.0.0"
+  },
+  "scripts": {
+    "update": "webdriver-manager update",
+    "start": "webdriver-manager start",
+    "test": "protractor conf.js"
+  }
+}
