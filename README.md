@@ -4,3 +4,8 @@
 2. ทดสอบจาก Usecase 
 3. เขียน Test Case Specification ของ Use case 1 Flow ที่ต้องการทดสอบ CaseSpec.pdf
 
+# Protrator คืออะไร?
+- Protractor เป็น Feamework สำหรับใช้ทำ Automated Testing เพื่อทำ E2E Testing บน Web Browser
+- โดย Protractor จะประกอบไปด้วย Selenium-Webdriver เเละ Protractor Framework
+
+
